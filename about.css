@@ -1,0 +1,40 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+header {
+display: flex;
+background-color: white;
+justify-content: center;
+		}
+
+.nav-menu {
+	list-style: none;
+	text-decoration: underline;
+	text-transform: uppercase;
+	display: flex;
+	align-items: center;
+	padding: 10px;}
+	
+
+#header-logo  {
+	width: 50px;
+	height: 50px;
+	margin-right: 400px;}
+
+#first-header {
+	display: flex;
+	font-family: 'Zilla Slab' serif;
+	justify-content: center;
+	font-weight: 400;
+	font-size: 50px;
+	margin-bottom: 0px;
+}
+footer {
+	background-color: #968772;
+	color: white;
+	margin-top: 15px;	
+	display: flex;
+	justify-content: flex-start;
+}

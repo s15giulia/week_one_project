@@ -1,0 +1,28 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+header {
+display: flex;
+background-color: white;
+justify-content: center;
+		}
+
+.nav-menu {
+	list-style: none;
+	text-decoration: underline;
+	text-transform: uppercase;
+	display: flex;
+	align-items: center;
+	padding: 10px;}
+	
+
+#header-logo  {
+	width: 50px;
+	height: 50px;
+	margin-right: 400px;}
+
+.boody {
+	background-image: url("product-1.jpg";)
+}	
